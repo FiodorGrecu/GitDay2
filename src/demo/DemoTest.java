@@ -15,5 +15,9 @@ public class DemoTest {
 		public static void subtraction(int a , int b) {
 			System.out.println(a-b);
 		}
+	// Div method
+	public static void div(int a, int b){
+		System.out.println(a/b);
+	}
 	
 }

@@ -20,7 +20,7 @@ public class DemoTest {
 
 	// Div method
 	public static void div(int a, int b) {
-		System.out.println(a / b);
+		System.out.println(a / b); // 5
 	}
 
 }
